@@ -1,0 +1,1 @@
+export const serverUrl='https://mos-ocean-production.up.railway.app';
